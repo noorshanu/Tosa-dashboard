@@ -1,0 +1,87 @@
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;800;900&display=swap);
+
+body{
+    background: linear-gradient(112.89deg, #1A1919 -0.3%, #100A00 49.38%, #181513 88.56%, #1A1919 100.65%) !important;
+}
+
+.css-sjxkfq{
+    
+    background-image: url('../../assets/images/Illustration.png') !important;
+   
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.css-73nay0 {
+    height: 57px !important;
+}
+
+.css-ecn6o2{
+
+background: linear-gradient(92.57deg, #FEB101 -2.55%, #E75C01 100%) !important; 
+}
+
+.css-j47xla {
+  
+    color: #ffffff !important;
+}
+
+
+.css-12tcsav {
+    background: linear-gradient(102.06deg, rgba(69, 69, 69, 0.2) 0%, rgba(53, 52, 52, 0.2) 100%) !important;
+    border-radius: 24px !important;
+    color: #fff !important;
+    border: 1px solid;
+    border-color: #f9a001;
+}
+.css-gd701{
+    background: linear-gradient(102.06deg, rgba(69, 69, 69, 0.2) 0%, rgba(53, 52, 52, 0.2) 100%) !important;
+    border-radius: 24px !important;
+    color: #fff !important;
+    border: 1px solid;
+    border-color: #f9a001;
+}
+
+.css-za6dv9{
+    background: linear-gradient(102.06deg, rgba(69, 69, 69, 0.2) 0%, rgba(53, 52, 52, 0.2) 100%) !important;
+    border-radius: 24px !important;
+    color: #fff !important;
+    border: 1px solid;
+    border-color: #f9a001;
+}
+.css-16vp4jn:hover, .css-16vp4jn[data-hover]{
+    background: linear-gradient(92.57deg, #FEB101 -2.55%, #E75C01 100%) !important; 
+
+}
+
+.css-16vp4jn{
+    background: linear-gradient(92.57deg, #FEB101 -2.55%, #E75C01 100%) !important; 
+}
+
+.css-1egs51u{
+    display: none !important;
+}
+
+.css-1sp4gd6 {
+
+    border: 11px solid #ff9800 !important;
+ 
+}
+
+.css-1lafmli{
+    background: linear-gradient(102.06deg, rgba(69, 69, 69, 0.2) 0%, rgba(53, 52, 52, 0.2) 100%) !important;
+    border-radius: 24px !important;
+    color: #fff !important;
+    border: 1px solid;
+    border-color: #f9a001;
+}
+
+.css-11a7f8u {
+
+    color: #ff9800 !important;
+    
+}
+
+.css-a8ui6d{
+    display: none !important;
+}
